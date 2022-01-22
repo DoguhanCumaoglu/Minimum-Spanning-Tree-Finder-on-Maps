@@ -1,0 +1,10 @@
+NYC Chicago LA Boston DC SF Dallas
+NYC Boston 2
+NYC DC 2
+NYC Chicago 7
+Chicago Dallas 8
+DC Dallas 10
+Chicago SF 15
+Chicago LA 15
+SF LA 3
+LA Dallas 10
